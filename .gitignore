@@ -1,0 +1,11 @@
+history
+places
+session.*
+ido.last
+
+snippets/
+backups/
+elpa/
+elpy/
+auto-save-list/
+eln-cache/
